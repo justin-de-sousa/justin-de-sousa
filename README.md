@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Base Creation and Management </b>
-  - [SQL Server Database Creation with Functionality](https://github.com/justin-de-sousa/SQL-Database)
+- <b>SQL</b>
+  - [SQL Server Database Creation with Functionality](https://github.com/justin-de-sousa/Microsoft-SQL-Server-Database-Creation)
  
 <h2> Certifications </h2>
 
