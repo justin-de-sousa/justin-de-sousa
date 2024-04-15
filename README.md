@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Justin! <br/>
+
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+- <b>Data Base Creation and Management </b>
+  - [SQL Server Database Creation with Functionality](https://github.com/justin-de-sousa/SQL-Database)
+ 
+<h2> Certifications </h2>
+
+- [Place Holder]()
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/desousajustin
+
 
 <!--
-**justin-de-sousa/justin-de-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
