@@ -4,10 +4,6 @@
 
 - <b>SQL</b>
   - [SQL Server Database Creation with Functionality](https://github.com/justin-de-sousa/Microsoft-SQL-Server-Database-Creation)
- 
-<h2> Certifications </h2>
-
-- [Place Holder]()
 
 
 <h2> 🤳 Connect with me:</h2>
