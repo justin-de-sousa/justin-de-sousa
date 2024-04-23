@@ -5,14 +5,6 @@
 - <b>SQL</b>
   - [SQL Server Database Creation with Functionality](https://github.com/justin-de-sousa/Microsoft-SQL-Server-Database-Creation)
 
-- **Python**
-  - [Machine Learning Predictive Models for Housing Prices](https://github.com/justin-de-sousa/Machine-Learning-Predictive-Modeling)
- 
-- **Tableau**
-  - [Webasto Consulting Project](link)
-
-- **Financial Anlytics**
-  - [Proforma Analysis on Oracle](link)
 
 <h2> 🤳 Connect with me:</h2>
 
